@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/icon.png" alt="Neon Cyberpunk Icon" width="200"/>
+  <img src="https://github.com/aiyu-ayaan/Neon-Cyberpunk/blob/master/screenshots/icon.jpg?raw=true" alt="Neon Cyberpunk Icon" width="200"/>
 </p>
 
 # Neon Cyberpunk Theme
