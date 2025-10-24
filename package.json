@@ -11,6 +11,11 @@
     "email": "ayaan35200@gmail.com",
     "url": "https://aiyu.me"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aiyu-ayaan/Neon-Cyberpunk.git"
+  },
+  
   "categories": [
     "Themes"
   ],
@@ -22,5 +27,7 @@
         "path": "./themes/Neon Cyberpunk-color-theme.json"
       }
     ]
-  }
+  },
+  "pricing": "Free",
+  "license":"MIT"
 }
