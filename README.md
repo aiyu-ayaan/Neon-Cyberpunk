@@ -23,7 +23,7 @@ A dark, vibrant, and futuristic theme for Visual Studio Code, inspired by the ne
 
 ## Feedback and Issues
 
-If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the [GitHub repository](https://github.com/Ayaan/neon-cyberpunk/issues) (if applicable).
+If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the [GitHub repository](https://github.com/aiyu-ayaan/Neon-Cyberpunk/issues) (if applicable).
 
 ## Author
 
