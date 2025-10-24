@@ -19,7 +19,7 @@ A dark, vibrant, and futuristic theme for Visual Studio Code, inspired by the ne
 
 ## Screenshots
 
-![Editor Screenshot](./screenshots/Screenshot1.png)
+![Editor Screenshot](./screenshots/Screenshot1.jpg)
 
 ## Feedback and Issues
 
