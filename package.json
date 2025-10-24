@@ -1,0 +1,26 @@
+{
+  "name": "neon-cyberpunk",
+  "displayName": "Neon Cyberpunk",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "author": {
+    "name": "Ayaan",
+    "email": "ayaan35200@gmail.com",
+    "url": "https://aiyu.me"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Cyberpunk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Cyberpunk-color-theme.json"
+      }
+    ]
+  }
+}
