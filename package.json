@@ -3,6 +3,7 @@
   "displayName": "Neon Cyberpunk",
   "description": "",
   "version": "0.0.1",
+  "publisher": "AiyuAyaan",
   "engines": {
     "vscode": "^1.105.0"
   },
