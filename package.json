@@ -1,8 +1,9 @@
 {
   "name": "neon-cyberpunk",
   "displayName": "Neon Cyberpunk",
-  "description": "",
-  "version": "0.0.1",
+  "description": "A vibrant cyberpunk theme with neon colors for VSCode.",
+  "icon": "screenshots/icon.png",
+  "version": "0.0.2",
   "publisher": "AiyuAyaan",
   "engines": {
     "vscode": "^1.105.0"

@@ -1,4 +1,15 @@
+<p align="center">
+  <img src="screenshots/icon.png" alt="Neon Cyberpunk Icon" width="200"/>
+</p>
+
 # Neon Cyberpunk Theme
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+  <a href="https://marketplace.visualstudio.com/items?itemName=AiyuAyaan.neon-cyberpunk">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/AiyuAyaan.neon-cyberpunk.svg?color=blue&label=VS%20Marketplace" alt="VS Marketplace">
+  </a>
+</p>
 
 A dark, vibrant, and futuristic theme for Visual Studio Code, inspired by the neon-drenched streets and high-tech aesthetics of the cyberpunk genre.
 
