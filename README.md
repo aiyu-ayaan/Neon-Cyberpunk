@@ -19,7 +19,7 @@ A dark, vibrant, and futuristic theme for Visual Studio Code, inspired by the ne
 
 ## Screenshots
 
-![Editor Screenshot](./screenshots/Screenshot1.jpg)
+![Editor Screenshot](https://github.com/aiyu-ayaan/Neon-Cyberpunk/blob/master/screenshots/Screenshot1.jpg?raw=true)
 
 ## Feedback and Issues
 
